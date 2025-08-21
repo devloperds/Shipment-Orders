@@ -1,0 +1,8 @@
+This is a placeholder for your Tableau dashboard.
+
+To add your own dashboard:
+1. Open Tableau Desktop.
+2. Connect to your shipment orders data.
+3. Create your dashboard with the desired charts and filters.
+4. Go to File > Export Packaged Workbook and save as `ShipmentOrdersDashboard.twbx`.
+5. Replace this file with your actual dashboard file.
